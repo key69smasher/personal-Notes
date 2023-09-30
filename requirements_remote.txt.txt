@@ -1,0 +1,3 @@
+# Requirements for the live project
+gunicorn
+psycopg2
